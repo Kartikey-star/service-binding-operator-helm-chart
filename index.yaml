@@ -3,12 +3,12 @@ entries:
   service-binding-operator:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2022-04-28T16:08:36.632989+05:30"
+    created: "2022-04-29T11:45:10.145002+05:30"
     description: A Helm chart to deploy service binding operator
-    digest: 3db33e401e42254c5a9365c040c1ebb00252b6e887e9b68b9fbced004b453323
+    digest: 92b84fe7d2ca83babdafe0ab0116581fe6512bbc4681d38b58b803d17c3019a9
     name: service-binding-operator
     type: application
     urls:
     - service-binding-operator-1.0.0.tgz
     version: 1.0.0
-generated: "2022-04-28T16:08:36.632361+05:30"
+generated: "2022-04-29T11:45:10.144287+05:30"
